@@ -109,10 +109,6 @@ fetch("https://api.precioil.es/estaciones/detalles/{idEstacion}")
 
 Para preguntas, sugerencias  puedes contactar en [contacto@api.precioil.es](mailto:contacto@api.precioil.es). 
 
-## Licencia
 
-Este proyecto se distribuye bajo la licencia [MIT](./LICENSE).
-
----
 
 

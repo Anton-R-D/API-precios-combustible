@@ -1,6 +1,8 @@
 
 # API Precioil.es
 
+#api.precioil.es
+
 La **API Precioil.es** proporciona datos actualizados sobre precios de combustibles y estaciones de servicio en varios países, incluyendo España, Portugal, Francia e Italia. Esta herramienta permite a los desarrolladores acceder a información en tiempo real.
 
 ## Tabla de Contenidos
